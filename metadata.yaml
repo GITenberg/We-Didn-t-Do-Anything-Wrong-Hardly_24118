@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '26260'
     url: http://www.gutenberg.org/2009/agents/26260
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24118#We-Didn-t-Do-Anything-Wrong-Hardly
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-01-02'
 gutenberg_type: Text
